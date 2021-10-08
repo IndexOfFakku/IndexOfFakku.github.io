@@ -1,0 +1,13 @@
+:root {
+  --reddit-text: #ffffff;
+  --reddit-link: #ff0000;
+  --reddit-text-muted: #7c7c7c;
+  --reddit-blockquote: #ff9900;
+  --reddit-line-seperator: #ff9900;
+  --reddit-table-border: #000000;
+  --reddit-code-bg: #000000;
+  --reddit-code: #FF006D;
+  --reddit-spoiler-bg: #545452;
+  --reddit-spoiler-bg-revealed: #5454521A;
+  --reddit-spinner: #1EAAF0;
+}
